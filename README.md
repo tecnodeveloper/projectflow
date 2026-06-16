@@ -1,2 +1,3 @@
 # CS619
-Final year project of University
+
+Final year project IDEAS for University Student
